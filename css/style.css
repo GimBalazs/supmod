@@ -47,6 +47,12 @@ li{
     border: 0.2px solid white;
     padding: 5px;
 }
+li:first-child{
+
+}
+li:last-child{
+    
+}
 .lablec{
     background: rgb(197, 181, 36);
     text-align: center;
